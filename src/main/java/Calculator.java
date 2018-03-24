@@ -15,7 +15,7 @@ public class Calculator {
         if(b==0){
 
         }
-
+        return a / b;
     }
 
     public double odejmowanie(double a, double b) {
